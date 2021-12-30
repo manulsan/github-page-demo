@@ -1,8 +1,11 @@
-## github-page-demo
-This is the one that show CI/CD and does webservice demo using "github pages"
-- Based on source : https://www.youtube.com/watch?v=QyFcl_Fba-k
-
-
+## Getting Started
+This is sample demo how to deploy to "Github Pages". 
+ - skills
+    - git, github
+    - CICD
+    - html
+  - Based on source : https://www.youtube.com/watch?v=QyFcl_Fba-k
+  
 ## host : github.com/id_of_your_github/your_repo
   - make github repository named "github-page-demo"  // any name you want
   - copy url 
