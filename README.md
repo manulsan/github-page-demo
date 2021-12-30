@@ -3,13 +3,13 @@ This is the one that show CI/CD and does webservice demo using "github pages"
 - Based on source : https://www.youtube.com/watch?v=QyFcl_Fba-k
 
 ```html
-<p>host : github/your_repo</p> 
+host : github/your_repo
 ``` 
   - make github repository named "github-page-demo"  // any name you want
   - copy url 
 
 ```html
-<p>host : your local host</p> 
+host : your local host
 ```
   - $clone it into your local(working) host computer  or open repository using VScode 
   - make index.html   // easy way  : copy context from w3school
@@ -17,7 +17,7 @@ This is the one that show CI/CD and does webservice demo using "github pages"
   - $git commit "Initial commit"
 
 ```html
-<p>host : your_repo</p> 
+host : your_repo
 ```
 - job : make "web host" working settings
   - select your repo and check index.html file exists
@@ -27,15 +27,15 @@ This is the one that show CI/CD and does webservice demo using "github pages"
   -                 ex> my site :   https://manulsan.github.io/github-page-demo
 
 ```html
-<p>DONE, YOU CAN SEE THE WEB SITE</p> 
+DONE, YOU CAN SEE THE WEB SITE
 ```
 
 ```html
-<p>Additional information for git branches managements</p> 
+Additional information for git branches managements
 ```
 
 ```html
-<p>host : local host</p> 
+host : local host
 ```
   - $git checkout -b styling
   - do file working
@@ -46,7 +46,7 @@ This is the one that show CI/CD and does webservice demo using "github pages"
   -$ git push origin styling
 
 ```html
-<p>host : github/your_repo</p> 
+host : github/your_repo
 ```
 - select branch named "styling"
   - "Compare and pull request"
@@ -55,21 +55,21 @@ This is the one that show CI/CD and does webservice demo using "github pages"
     => check that branch is merged , access web service that the modified css is applied
 
 ```html
-<p>DONE</p> 
+DONE
 ```
 
 ```html
-<p>Additional information : make another branch for services</p> 
+Additional information : make another branch for services
 ```
 
 ```html
-<p>host : local host</p> 
+host : local host
 ```
   - $git checkout -b site
   - $git push origin site
 
 ```html
-<p>host : github/your_repo</p> 
+host : github/your_repo
 ```
  - job : make "web host" working settings
    - select your repo and check index.html file exists
@@ -77,7 +77,7 @@ This is the one that show CI/CD and does webservice demo using "github pages"
        select "Branch:site", "/root" and save 
 
 ```html
-<p>host : local host</p> 
+host : local host
 ```
   - html file job
     - make contact.html
