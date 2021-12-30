@@ -2,7 +2,7 @@
 This is the one that show CI/CD and does webservice demo using "github pages"
 - Based on source : https://www.youtube.com/watch?v=QyFcl_Fba-k
 
-<span style="color:blue">host : github/your_repo</span>
+<span style="color:blue">host : XXXXXXXXXXXXXXXXXXXXXXXgithub/your_repo</span>
 host : github/your_repo ---------------------------------------------------
   - make github repository named "github-page-demo"  // any name you want
   - copy url 
