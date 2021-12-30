@@ -3,11 +3,11 @@ This is the one that show CI/CD and does webservice demo using "github pages"
 - Based on source : https://www.youtube.com/watch?v=QyFcl_Fba-k
 
 
-###host : github.com/id_of_your_github/your_repo
+## host : github.com/id_of_your_github/your_repo
   - make github repository named "github-page-demo"  // any name you want
   - copy url 
 
-# host : your local host
+## host : your local host
   - $clone it into your local(working) host computer  or open repository using VScode 
   - make index.html   // easy way  : copy context from w3school
   - $git add .
@@ -22,7 +22,7 @@ This is the one that show CI/CD and does webservice demo using "github pages"
   - your site url : https://your_if_of_github.github.io/your_repo
   -                 ex> my site :   https://manulsan.github.io/github-page-demo
 
-# --------------------- DONE, YOU CAN SEE THE WEB SITE ---------------------
+### --------------------- DONE, YOU CAN SEE THE WEB SITE ---------------------
 
 ```html
 ## Additional information for git branches managements
