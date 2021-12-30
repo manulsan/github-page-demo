@@ -27,7 +27,7 @@ host : your_repo
   -                 ex> my site :   https://manulsan.github.io/github-page-demo
 
 ```html
-DONE, YOU CAN SEE THE WEB SITE
+--------------------- DONE, YOU CAN SEE THE WEB SITE ---------------------
 ```
 
 ```html
@@ -55,7 +55,7 @@ host : github/your_repo
     => check that branch is merged , access web service that the modified css is applied
 
 ```html
-DONE
+--------------------- DONE ---------------------
 ```
 
 ```html
