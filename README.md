@@ -82,3 +82,11 @@ host : local host
   - html file job
     - make contact.html
     - add link to index.html
+  - git commit -m "Contact.html is add"
+  - git push origin site
+
+```html
+host : any... check web service is modified        
+```
+   http://id_of_your_github.github.io/your_repo/contact.html
+   ex> my case,    https://manulsan.github.io/github-page-demo/contact.html
