@@ -89,5 +89,6 @@ host : local host
 host : any... check web service is modified        
 ```
    http://id_of_your_github.github.io/your_repo/contact.html
+   
    ex> my case,    
      https://manulsan.github.io/github-page-demo/contact.html
