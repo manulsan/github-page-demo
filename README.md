@@ -3,7 +3,7 @@ This is the one that show CI/CD and does webservice demo using "github pages"
 - Based on source : https://www.youtube.com/watch?v=QyFcl_Fba-k
 
 ```html
-host : github/id_of_your_github/your_repo
+host : github.com/id_of_your_github/your_repo
 ``` 
   - make github repository named "github-page-demo"  // any name you want
   - copy url 
@@ -46,7 +46,7 @@ host : local host
   -$ git push origin styling
 
 ```html
-host : github/id_of_your_github/your_repo
+host : github.com/id_of_your_github/your_repo
 ```
 - select branch named "styling"
   - "Compare and pull request"
@@ -69,7 +69,7 @@ host : local host
   - $git push origin site
 
 ```html
-host : github/id_of_your_github/your_repo
+host : github.com/id_of_your_github/your_repo
 ```
  - job : make "web host" working settings
    - select your repo and check index.html file exists
