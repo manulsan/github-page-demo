@@ -71,4 +71,4 @@ Additional information : make another branch for services
    http://id_of_your_github.github.io/your_repo/contact.html
    
    ex> my case,    
-     https://manulsan.github.io/github-page-demo/contact.html
+     https://manulsan.github.io/github-page-demo
